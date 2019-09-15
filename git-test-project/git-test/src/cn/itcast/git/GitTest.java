@@ -5,10 +5,12 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello java");
         System.out.println("hello world");
+        test();
     }
 
 
-    public void test(){
+    public static void test(){
         int a = 10;
+        System.out.println(a);
     }
 }
