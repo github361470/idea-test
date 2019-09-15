@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println(a);
         System.out.println(a);
         System.out.println(a);
+        System.out.println("我是master分支，大家好");
     }
 }
